@@ -7,3 +7,6 @@ x=c(1:30)
 y=exp(x)
 fwewaffe
 few
+fwqf
+few
+few
